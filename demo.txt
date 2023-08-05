@@ -5,5 +5,10 @@ this is the demo file for learning how to push file from local repo to remote(gi
 this is jfasldkf
 =======
 
+<<<<<<< HEAD
 this is fksf
 >>>>>>> 979ae2df5a235c9368652ac12bc4dc1188942606
+=======
+dsf
+dummy changes
+>>>>>>> d7e7c3e94d3257992eb87808912e2476553bfa4b
