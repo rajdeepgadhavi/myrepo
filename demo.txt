@@ -1,4 +1,9 @@
 this is the demo file for learning how to push file from local repo to remote(github) repo.
+<<<<<<< HEAD
 \
 
 this is jfasldkf
+=======
+
+this is fksf
+>>>>>>> 979ae2df5a235c9368652ac12bc4dc1188942606
